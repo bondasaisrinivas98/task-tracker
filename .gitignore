@@ -1,0 +1,11 @@
+# Node modules
+**/node_modules/
+
+# Vite build output
+frontend/dist/
+
+# SQLite database file
+backend/database.db
+
+# Logs
+*.log
