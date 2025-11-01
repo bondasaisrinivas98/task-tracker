@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Node modules
 **/node_modules/
 
@@ -8,4 +9,16 @@ frontend/dist/
 backend/database.db
 
 # Logs
+=======
+# Node modules
+**/node_modules/
+
+# Vite build output
+frontend/dist/
+
+# SQLite database file
+backend/database.db
+
+# Logs
+>>>>>>> af4949356e76440b5de3703f119dfc9de9426c16
 *.log
